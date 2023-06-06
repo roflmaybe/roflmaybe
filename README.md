@@ -1,4 +1,4 @@
 # rofl
-## designer & developer, my stack is on my website
+## designer & developer
 
 ##### rofl#0905 / http://rofl.agency/
