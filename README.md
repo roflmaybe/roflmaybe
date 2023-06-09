@@ -1,6 +1,6 @@
 <div align="center">
   <h1>hello i'm rofl</h1>
-</ div>
+</div>
 
 ```json
 {
