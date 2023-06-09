@@ -1,5 +1,5 @@
-<div>
-  [![GitHub followers](https://img.shields.io/github/followers/roflmaybe?logo=github&style=for-the-badge&logoColor=white)](https://github.com/roflmaybe)
+<div align="center">
+   ![GitHub followers](https://img.shields.io/github/followers/roflmaybe?logo=github&style=for-the-badge&logoColor=white)
   <h1>hello i'm rofl</h1>
 </ div>
 
